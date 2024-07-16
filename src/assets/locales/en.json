@@ -74,7 +74,7 @@
   "footer": {
     "legal": {
       "disclaimer": "Disclaimer ◝(ᵔᵕᵔ)◜",
-      "disclaimerText": "Please note: nalzflix does not host any files itself but instead only display's content from 3rd party providers. Legal issues should be taken up with them."
+      "disclaimerText": "Please note: nalzflix does not host any files itself but instead only display's content from 3rd party providers. Legal issues should be taken up with them since nalzflix won't give a fuck :)"
     },
     "links": {
       "discord": "Discord",
@@ -82,7 +82,7 @@
       "github": "GitHub",
       "twitter": "Twitter"
     },
-    "tagline": "Watch your favorite shows and movies for free with no ads ever! (っ'ヮ'c)"
+    "tagline": "Watch your favorite shows without needing a TV Licence"
   },
   "global": {
     "name": "nalzflix",
@@ -116,15 +116,11 @@
       "placeholder": {
         "default": "What do you want to watch?",
         "extra": [
-          "What are you in the mood for?",
           "Should we delete your browser history?",
-          "What do you want to stream?",
-          "nalzflix is the best site ever!",
-          "What's on your watchlist today?",
-          "How was your day?",
-          "My bad the site never works...",
-          "Isn't nalzflix just the best?",
-          ">ᴗ<"
+          "I hate nig-",
+          "I have no dad :(",
+          "Fortnite",
+          "Skibidi Ohio Rizz"
         ]
       },
       "empty": {
@@ -426,7 +422,7 @@
         "detailsButton": "Show details",
         "homeButton": "Go home",
         "discoverButton": "Discover more",
-        "text": "We have searched through our providers and cannot find the media you are looking for! We do not host the media and have no control over what is available. Please click 'Show details' below for more details.",
+        "text": "i don't have that bro",
         "title": "We couldn't find that"
       },
       "extensionFailure": {
